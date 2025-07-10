@@ -2,6 +2,8 @@
 
 This repository contains my submission for the **Prompt Engineering Intern** role at **LiaPlus AI**.
 
+Project link: https://drive.google.com/file/d/1ZG3WILO8tA7OZs69xY3tnCL-d-TKKtw4/view?usp=drivesdk
+
 ## 📌 Overview
 
 The assignment simulates a conversational assistant that helps guide prospective students through the **B.Sc Nursing admission process**.  
