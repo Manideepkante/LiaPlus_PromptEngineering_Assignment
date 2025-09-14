@@ -1,4 +1,4 @@
-# Prompt Engineering Assignment – LiaPlus AI
+# Prompt Engineering Assignment 
 
 This repository contains my submission for the **Prompt Engineering Intern** role at **LiaPlus AI**.
 
